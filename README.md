@@ -10,6 +10,7 @@
  
     Location: 3D Viewport/VSE/Text Editor > Unicode
 
+![GettyImages-1226007284-MLedit](https://github.com/user-attachments/assets/597dfbe2-64cf-431b-ac0d-07d1c9980f93)
 ---
 
 You have three panels (for the Text Editor, VSE, and 3D Viewport) to display and insert Unicode characters.
